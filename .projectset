@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <psf version="2.0">
 <provider id="org.eclipse.team.svn.core.svnnature">
-<project reference="1.0.1,https://github.com/dandar3/android-google-play-play-services-appset/tags/1.0.0,google-play-play-services-appset,102d317cc4c6001c1cf4a1eefec8cb7e;https://github.com/dandar3/android-google-play-play-services-appset;https://github.com/dandar3/android-google-play-play-services-appset;branches;tags;trunk;true;be294443-89d9-c101-ea08-ce57b7db7bff;https://github.com/dandar3/android-google-play-play-services-appset;;false;&lt;https://github.com:443&gt; GitHub;;0"/>
+<project reference="1.0.1,https://github.com/dandar3/android-google-play-services-appset/tags/1.0.0,google-play-services-appset,102d317cc4c6001c1cf4a1eefec8cb7e;https://github.com/dandar3/android-google-play-services-appset;https://github.com/dandar3/android-google-play-services-appset;branches;tags;trunk;true;be294443-89d9-c101-ea08-ce57b7db7bff;https://github.com/dandar3/android-google-play-services-appset;;false;&lt;https://github.com:443&gt; GitHub;;0"/>
 </provider>
 </psf>
